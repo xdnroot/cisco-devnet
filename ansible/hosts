@@ -1,0 +1,12 @@
+[all:vars]
+ansible_network_os=cisco.ios.ios
+
+[SW1]
+10.1.4.108 ansible_connection=network_cli
+
+[SW2]
+10.1.4.26 ansible_connection=network_cli
+
+[SW3]
+10.1.4.31 ansible_connection=network_cli
+
