@@ -3,6 +3,7 @@
 ## Preconfig
 
 This is the topology of this lab.
+
 ![Topology](switches-playbook-lab-topology.png)
 
 Each host must be accessible via SSH using public key authentication.
